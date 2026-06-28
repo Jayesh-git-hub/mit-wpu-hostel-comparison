@@ -1,0 +1,72 @@
+export const roommatesData = [
+  {
+    id: "m1",
+    name: "Aman Deshpande",
+    gender: "boys",
+    branch: "B.Tech Computer Science",
+    year: "2nd Year",
+    budget: "₹10,000 - ₹14,000",
+    areas: ["Rambaug Colony", "Mayur Colony"],
+    sleep: "Night Owl (2 AM - 9 AM)",
+    food: "Veg / Non-Veg",
+    hobbies: "Gaming, Coding, Football",
+    bio: "Looking for a chill roommate to share a double room in Metrocity Boys or a flat. Non-smoker, neat, and down for late-night code runs or FIFA matches.",
+    avatar: "👨‍💻"
+  },
+  {
+    id: "m2",
+    name: "Riya Sen",
+    gender: "girls",
+    branch: "B.Des Product Design",
+    year: "3rd Year",
+    budget: "₹15,000 - ₹20,000",
+    areas: ["Paud Road", "Ideal Colony"],
+    sleep: "Flexible (12 AM - 8 AM)",
+    food: "Strictly Vegetarian",
+    hobbies: "Sketching, Music, Cafe hopping",
+    bio: "Hi! I am looking for a flatmate or PG roommate who appreciates art and keeps the room organized. I plan to rent a double-sharing room in Stanza Living Annaba. I respect privacy and like quiet hours while studying.",
+    avatar: "🎨"
+  },
+  {
+    id: "m3",
+    name: "Pranav Shah",
+    gender: "boys",
+    branch: "MBA Finance",
+    year: "1st Year",
+    budget: "₹12,000 - ₹16,000",
+    areas: ["Rambaug Colony", "Karve Road"],
+    sleep: "Early Bird (11 PM - 6 AM)",
+    food: "Veg / Non-Veg",
+    hobbies: "Reading, Stocks, Gym",
+    bio: "Quiet and disciplined. I study for CAT/CFA and prefer a roommate who maintains an active morning routine. Looking to rent a double occupancy room near campus.",
+    avatar: "📈"
+  },
+  {
+    id: "m4",
+    name: "Snehal Kadam",
+    gender: "girls",
+    branch: "B.Tech Electronics",
+    year: "2nd Year",
+    budget: "₹8,000 - ₹12,000",
+    areas: ["Rambaug Colony", "Paud Road"],
+    sleep: "Flexible",
+    food: "Veg / Non-Veg",
+    hobbies: "Dancing, Movies, Cooking",
+    bio: "Hey there! Looking for a budget accommodation (triple sharing is fine too) behind Gate 2 or Rambaug. Very social and easygoing. Don't mind cooking together to save costs!",
+    avatar: "💃"
+  },
+  {
+    id: "m5",
+    name: "Yash Vardhan",
+    gender: "boys",
+    branch: "B.BA International Business",
+    year: "1st Year",
+    budget: "₹15,000 - ₹22,000",
+    areas: ["Mayur Colony", "Erandwane"],
+    sleep: "Night Owl (3 AM - 10 AM)",
+    food: "Veg / Non-Veg",
+    hobbies: "Guitar, Travel, Anime",
+    bio: "Looking for an open-minded roommate to share a premium PG (Stanza Akron or similar). Love listening to music, discussing anime, and trying out Kothrud's street food. Looking for a neat space.",
+    avatar: "🎸"
+  }
+];
